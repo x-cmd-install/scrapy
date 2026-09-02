@@ -1,0 +1,60 @@
+about:
+  description: Scrapy, a fast high-level web crawling & scraping framework for Python.
+  license: BSD-3-Clause
+  homepage: https://scrapy.org
+  head: b27ccc8
+  archived: false
+  latestVersion: 2.18.0
+  collectedAt: 2026-09-02T02:19:10Z
+timeline:
+  created: 2010-02-22
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-20
+popularity:
+  star: 64159
+  watcher: 1756
+  fork: 11936
+  release: 53
+  contributor: 631
+  pullRequest: 1822
+  issue: 3302
+language:
+  Python: 3151994
+  HTML: 63863
+  Go Template: 8986
+  Roff: 2010
+  Shell: 252
+totalLine: 3227105
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 139
+    openPR: 67
+    closedIssue: 2
+    openIssue: 1
+    commit: 145
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 291
+    openPR: 95
+    closedIssue: 19
+    openIssue: 15
+    commit: 308
+  last180d:
+    since: 2026-03-06
+    release: 7
+    mergedPR: 371
+    openPR: 98
+    closedIssue: 43
+    openIssue: 18
+    commit: 426
+  last360d:
+    since: 2025-09-07
+    release: 10
+    mergedPR: 442
+    openPR: 99
+    closedIssue: 91
+    openIssue: 24
+    commit: 531
