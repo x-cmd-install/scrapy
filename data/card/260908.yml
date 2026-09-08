@@ -5,13 +5,13 @@ about:
   head: 544f4d2
   archived: false
   latestVersion: "2.18.0"
-  collectedAt: 2026-09-08T02:10:21Z
+  collectedAt: 2026-09-08T05:04:00Z
 timeline:
   created: 2010-02-22
   lastCommit: 2026-09-07
   lastRelease: 2026-08-20
 popularity:
-  star: 64236
+  star: 64239
   watcher: 1757
   fork: 11945
   release: 53
@@ -83,7 +83,7 @@ total:
   commit: 11446
 ---
 path: /home/runner/.x-repo/github.com/scrapy/scrapy
-collectedAt: 2026-09-08T02:10:25Z
+collectedAt: 2026-09-08T05:04:16Z
 loc:
   Python:
     code: 74566
