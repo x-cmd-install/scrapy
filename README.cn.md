@@ -12,34 +12,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 x install scrapy
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/scrapy/scrapy>
-- **官网**: <https://scrapy.org>
-- **许可证**: BSD-3-Clause
-
-## 发布
-
-- **最新版本**: `2.19.0` (2026-09-10)
-- **最近提交**: 2026-09-10
-
-## 流行度
-
-- **Star**: 64,273 · **Fork**: 11,944 · **开放 issue**: 3,304 · **贡献者**: 631
-
-## 累计统计
-
-- **发布数**: 54 · **已合并 PR**: 2891 · **开放 PR**: 179 · **已关闭 issue**: 3092 · **开放 issue**: 212 · **提交数**: 11461
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 93 | 24 | 5 | 1 | 120 |
-| 90d | 2026-06-12 | 3 | 298 | 74 | 18 | 15 | 317 |
-| 360d | 2025-09-15 | 11 | 469 | 78 | 94 | 24 | 563 |
-
-## 代码规模
+## 代码洞察
 
 合计: **104,486** 行代码（覆盖前 5 种语言、共 **583** 个文件）。
 
@@ -61,6 +34,36 @@ x install scrapy
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (0/10) — branch protection not enabled on development/release branches
 
+## 源代码
+
+- **上游仓库**: <https://github.com/scrapy/scrapy>
+- **官网**: <https://scrapy.org>
+- **许可证**: BSD-3-Clause
+
+## 发布
+
+- **最新版本**: `2.19.0` (2026-09-10)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 64,280 · **Fork**: 11,945 · **开放 issue**: 3,304 · **贡献者**: 631
+
+## 累计统计
+
+- **发布数**: 54 · **已合并 PR**: 2891 · **开放 PR**: 179 · **已关闭 issue**: 3092 · **开放 issue**: 212 · **提交数**: 11461
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 2 | 87 | 19 | 5 | 1 | 120 |
+| last60d | 2026-07-13 | 2 | 242 | 63 | 12 | 13 | 259 |
+| 90d | 2026-06-13 | 3 | 297 | 74 | 18 | 15 | 317 |
+| last180d | 2026-03-15 | 8 | 400 | 77 | 45 | 19 | 450 |
+| 360d | 2025-09-16 | 11 | 469 | 78 | 94 | 24 | 563 |
+| last720d | 2024-09-21 | 16 | 707 | 83 | 253 | 42 | 904 |
+
 ## 改进这些数据
 
 scrapy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `scrapy` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -70,4 +73,4 @@ scrapy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:59:06Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:07:31Z._

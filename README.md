@@ -12,34 +12,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 x install scrapy
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/scrapy/scrapy>
-- **Homepage**: <https://scrapy.org>
-- **License**: BSD-3-Clause
-
-## Release
-
-- **Latest**: `2.19.0` (2026-09-10)
-- **Last commit**: 2026-09-10
-
-## Popularity
-
-- **Stars**: 64,273 · **Forks**: 11,944 · **Open issues**: 3,304 · **Contributors**: 631
-
-## Totals (cumulative)
-
-- **Releases**: 54 · **Merged PRs**: 2891 · **Open PRs**: 179 · **Closed issues**: 3092 · **Open issues**: 212 · **Commits**: 11461
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 93 | 24 | 5 | 1 | 120 |
-| 90d | 2026-06-12 | 3 | 298 | 74 | 18 | 15 | 317 |
-| 360d | 2025-09-15 | 11 | 469 | 78 | 94 | 24 | 563 |
-
-## Code size
+## Code insight
 
 Total: **104,486** lines of code across **583** files in the top 5 languages.
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (0/10) — branch protection not enabled on development/release branches
 
+## Source
+
+- **Upstream**: <https://github.com/scrapy/scrapy>
+- **Homepage**: <https://scrapy.org>
+- **License**: BSD-3-Clause
+
+## Release
+
+- **Latest**: `2.19.0` (2026-09-10)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 64,280 · **Forks**: 11,945 · **Open issues**: 3,304 · **Contributors**: 631
+
+## Totals (cumulative)
+
+- **Releases**: 54 · **Merged PRs**: 2891 · **Open PRs**: 179 · **Closed issues**: 3092 · **Open issues**: 212 · **Commits**: 11461
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 2 | 87 | 19 | 5 | 1 | 120 |
+| last60d | 2026-07-13 | 2 | 242 | 63 | 12 | 13 | 259 |
+| 90d | 2026-06-13 | 3 | 297 | 74 | 18 | 15 | 317 |
+| last180d | 2026-03-15 | 8 | 400 | 77 | 45 | 19 | 450 |
+| 360d | 2025-09-16 | 11 | 469 | 78 | 94 | 24 | 563 |
+| last720d | 2024-09-21 | 16 | 707 | 83 | 253 | 42 | 904 |
+
 ## Improve this data
 
 Install metadata for scrapy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scrapy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for scrapy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:59:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:31Z._
