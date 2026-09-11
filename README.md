@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 64,280 · **Forks**: 11,945 · **Open issues**: 3,304 · **Contributors**: 631
+- **Stars**: 64,284 · **Forks**: 11,945 · **Open issues**: 3,304 · **Contributors**: 631
 
 ## Totals (cumulative)
 
@@ -73,4 +73,4 @@ Install metadata for scrapy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:18:58Z._
