@@ -7,7 +7,7 @@ about:
   latestVersion: "2.19.0"
   latestRelease: "2.19.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:07:23Z
+  collectedAt: 2026-09-11T05:18:50Z
 timeline:
   created: 2010-02-22
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 64280
+  star: 64284
   watcher: 1757
   fork: 11945
   release: 54
@@ -87,7 +87,7 @@ total:
   commit: 11461
 ---
 path: /home/runner/.x-repo/github.com/scrapy/scrapy
-collectedAt: 2026-09-11T00:07:28Z
+collectedAt: 2026-09-11T05:18:55Z
 loc:
   Python:
     code: 75086
