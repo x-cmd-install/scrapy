@@ -266,4 +266,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
-{"id":386236846,"author":{"login":"wRAR","id":241039,"node_id":"MDQ6VXNlcjI0MTAzOQ==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAAgUXs4XBYGu","tag_name":"2.19.0","target_commitish":"master","name":"","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-10T11:11:16Z","updated_at":"2026-09-10T11:57:38Z","published_at":"2026-09-10T11:48:30Z","assets":[],"body":"-   New ``RemoteControl`` extension which allows inspecting and controlling a running crawl over HTTP, used by the [Scrapy MCP server](https://docs.scrapy.org/en/latest/topics/agents.html#using-the-mcp-server)\r\n-   Experimental ``aiohttp``-based download handler (now the default when running without a reactor)\r\n\r\n[Full Changelog](https://docs.scrapy.org/en/latest/news.html#scrapy-2-19-0-2026-09-10)"}
