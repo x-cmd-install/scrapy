@@ -14,12 +14,12 @@ x install scrapy
 
 ## Code insight
 
-Total: **108,582** lines of code across **607** files in the top 5 languages.
+Total: **108,725** lines of code across **607** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 78,731 | 2,475 | 14,930 | 511 |
-| ReStructuredText | 27,176 | 0 | 11,213 | 81 |
+| Python | 78,843 | 2,480 | 14,957 | 511 |
+| ReStructuredText | 27,207 | 0 | 11,224 | 81 |
 | Html | 1,544 | 37 | 1,738 | 13 |
 | Toml | 375 | 120 | 32 | 1 |
 | Ini | 345 | 37 | 31 | 1 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.19.0` (2026-09-10)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 
 ## Popularity
 
-- **Stars**: 64,537 · **Forks**: 11,985 · **Open issues**: 3,306 · **Contributors**: 632
+- **Stars**: 64,544 · **Forks**: 11,988 · **Open issues**: 3,307 · **Contributors**: 632
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2983 · **Open PRs**: 156 · **Closed issues**: 3143 · **Open issues**: 163 · **Commits**: 11553
+- **Releases**: 54 · **Merged PRs**: 2989 · **Open PRs**: 156 · **Closed issues**: 3147 · **Open issues**: 160 · **Commits**: 11559
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 87 | 19 | 5 | 1 | 120 |
-| last60d | 2026-08-02 | 2 | 268 | 53 | 7 | 2 | 275 |
-| 90d | 2026-07-03 | 3 | 340 | 68 | 20 | 9 | 364 |
-| last180d | 2026-04-04 | 7 | 464 | 79 | 45 | 15 | 513 |
-| 360d | 2025-10-06 | 11 | 554 | 79 | 94 | 20 | 650 |
-| last720d | 2024-10-11 | 16 | 796 | 84 | 256 | 37 | 988 |
+| 30d | 2026-09-02 | 1 | 91 | 21 | 5 | 1 | 126 |
+| last60d | 2026-08-03 | 2 | 265 | 52 | 8 | 2 | 281 |
+| 90d | 2026-07-04 | 3 | 346 | 67 | 21 | 9 | 370 |
+| last180d | 2026-04-05 | 7 | 467 | 78 | 46 | 15 | 519 |
+| 360d | 2025-10-07 | 11 | 560 | 79 | 95 | 20 | 656 |
+| last720d | 2024-10-12 | 16 | 802 | 84 | 256 | 37 | 994 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scrapy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:16:48Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:59:41Z._
