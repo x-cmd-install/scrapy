@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (0/10) — branch protection not enabled on development/release branches
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 64,598 · **Forks**: 11,989 · **Open issues**: 3,307 · **Contributors**: 632
+- **Stars**: 64,615 · **Forks**: 11,988 · **Open issues**: 3,307 · **Contributors**: 632
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 3026 · **Open PRs**: 135 · **Closed issues**: 3162 · **Open issues**: 145 · **Commits**: 11596
+- **Releases**: 54 · **Merged PRs**: 3026 · **Open PRs**: 134 · **Closed issues**: 3162 · **Open issues**: 145 · **Commits**: 11596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 116 | 15 | 4 | 0 | 139 |
-| last60d | 2026-08-07 | 2 | 245 | 30 | 8 | 2 | 264 |
-| 90d | 2026-07-08 | 2 | 379 | 50 | 21 | 9 | 400 |
-| last180d | 2026-04-09 | 7 | 499 | 61 | 45 | 14 | 544 |
-| 360d | 2025-10-11 | 11 | 597 | 62 | 94 | 20 | 693 |
-| last720d | 2024-10-16 | 16 | 838 | 67 | 260 | 33 | 1031 |
+| 30d | 2026-09-07 | 1 | 114 | 15 | 3 | 0 | 139 |
+| last60d | 2026-08-08 | 2 | 228 | 27 | 8 | 2 | 264 |
+| 90d | 2026-07-09 | 2 | 379 | 51 | 21 | 9 | 400 |
+| last180d | 2026-04-10 | 6 | 499 | 62 | 45 | 14 | 544 |
+| 360d | 2025-10-12 | 11 | 597 | 63 | 94 | 20 | 693 |
+| last720d | 2024-10-17 | 16 | 835 | 68 | 259 | 33 | 1027 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scrapy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:57:52Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:24:28Z._
