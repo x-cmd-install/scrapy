@@ -7,7 +7,7 @@ about:
   latestVersion: "2.19.0"
   latestRelease: "2.19.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:25:19Z
+  collectedAt: 2026-10-30T06:12:40Z
 timeline:
   created: 2010-02-22
   lastCommit: 2026-10-28
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 65108
+  star: 65103
   watcher: 1746
-  fork: 12064
+  fork: 12070
   release: 54
   contributor: 639
-  pullRequest: 4989
-  issue: 3317
+  pullRequest: 4993
+  issue: 3318
 language:
   Python: 3862373
   HTML: 63863
@@ -31,63 +31,63 @@ language:
 totalBytes: 3937554
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 117
-    openPR: 2
+    mergedPR: 116
+    openPR: 6
     closedIssue: 4
-    openIssue: 9
+    openIssue: 10
     commit: 169
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 1
     mergedPR: 218
-    openPR: 8
+    openPR: 12
     closedIssue: 9
-    openIssue: 10
+    openIssue: 11
     commit: 303
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 2
-    mergedPR: 429
-    openPR: 14
-    closedIssue: 12
+    mergedPR: 427
+    openPR: 18
+    closedIssue: 11
     openIssue: 13
     commit: 464
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 4
-    mergedPR: 607
-    openPR: 25
+    mergedPR: 604
+    openPR: 29
     closedIssue: 43
-    openIssue: 22
+    openIssue: 23
     commit: 637
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 11
     mergedPR: 711
-    openPR: 26
+    openPR: 30
     closedIssue: 98
-    openIssue: 25
+    openIssue: 26
     commit: 811
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 16
-    mergedPR: 946
-    openPR: 31
+    mergedPR: 945
+    openPR: 35
     closedIssue: 260
-    openIssue: 32
-    commit: 1131
+    openIssue: 33
+    commit: 1130
 total:
   release: 54
   mergedPR: 3158
-  openPR: 75
+  openPR: 79
   closedIssue: 3211
-  openIssue: 106
+  openIssue: 107
   commit: 11728
 ---
 path: /home/runner/.x-repo/github.com/scrapy/scrapy
-collectedAt: 2026-10-29T06:25:25Z
+collectedAt: 2026-10-30T06:12:45Z
 loc:
   Python:
     code: 90124
