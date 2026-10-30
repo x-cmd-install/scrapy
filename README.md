@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 65,108 · **Forks**: 12,064 · **Open issues**: 3,317 · **Contributors**: 639
+- **Stars**: 65,103 · **Forks**: 12,070 · **Open issues**: 3,318 · **Contributors**: 639
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 3158 · **Open PRs**: 75 · **Closed issues**: 3211 · **Open issues**: 106 · **Commits**: 11728
+- **Releases**: 54 · **Merged PRs**: 3158 · **Open PRs**: 79 · **Closed issues**: 3211 · **Open issues**: 107 · **Commits**: 11728
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 117 | 2 | 4 | 9 | 169 |
-| last60d | 2026-08-30 | 1 | 218 | 8 | 9 | 10 | 303 |
-| 90d | 2026-07-31 | 2 | 429 | 14 | 12 | 13 | 464 |
-| last180d | 2026-05-02 | 4 | 607 | 25 | 43 | 22 | 637 |
-| 360d | 2025-11-03 | 11 | 711 | 26 | 98 | 25 | 811 |
-| last720d | 2024-11-08 | 16 | 946 | 31 | 260 | 32 | 1131 |
+| 30d | 2026-09-30 | 0 | 116 | 6 | 4 | 10 | 169 |
+| last60d | 2026-08-31 | 1 | 218 | 12 | 9 | 11 | 303 |
+| 90d | 2026-08-01 | 2 | 427 | 18 | 11 | 13 | 464 |
+| last180d | 2026-05-03 | 4 | 604 | 29 | 43 | 23 | 637 |
+| 360d | 2025-11-04 | 11 | 711 | 30 | 98 | 26 | 811 |
+| last720d | 2024-11-09 | 16 | 945 | 35 | 260 | 33 | 1130 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for scrapy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:25:31Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:12:49Z._
