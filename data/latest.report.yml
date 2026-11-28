@@ -2,97 +2,97 @@ about:
   description: "Scrapy, a fast high-level web crawling & scraping framework for Python."
   license: BSD-3-Clause
   homepage: https://scrapy.org
-  head: 3574baf
+  head: d2052b8
   archived: false
   latestVersion: "2.20.0"
   latestRelease: "2.20.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:19:24Z
+  collectedAt: 2026-11-28T08:11:24Z
 timeline:
   created: 2010-02-22
-  lastCommit: 2026-11-25
+  lastCommit: 2026-11-27
   lastVersion: 2026-11-06
   lastRelease: 2026-11-06
   lastPrerelease: 
 popularity:
-  star: 65652
+  star: 65667
   watcher: 1745
-  fork: 12170
+  fork: 12174
   release: 55
-  contributor: 639
-  pullRequest: 5084
+  contributor: 641
+  pullRequest: 5090
   issue: 3327
 language:
-  Python: 4025168
+  Python: 4028133
   HTML: 63863
   Go Template: 9056
   Roff: 2010
   Shell: 252
-totalBytes: 4100349
+totalBytes: 4103314
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 42
-    openPR: 6
+    mergedPR: 41
+    openPR: 4
     closedIssue: 4
-    openIssue: 5
-    commit: 57
+    openIssue: 4
+    commit: 61
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
     mergedPR: 164
-    openPR: 6
-    closedIssue: 12
-    openIssue: 10
-    commit: 237
+    openPR: 4
+    closedIssue: 13
+    openIssue: 9
+    commit: 241
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
-    mergedPR: 263
-    openPR: 11
-    closedIssue: 18
-    openIssue: 10
-    commit: 367
+    mergedPR: 265
+    openPR: 9
+    closedIssue: 19
+    openIssue: 9
+    commit: 371
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 4
-    mergedPR: 629
-    openPR: 25
+    mergedPR: 632
+    openPR: 23
     closedIssue: 43
-    openIssue: 20
-    commit: 673
+    openIssue: 19
+    commit: 677
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 11
-    mergedPR: 747
-    openPR: 26
-    closedIssue: 99
-    openIssue: 23
-    commit: 849
+    mergedPR: 750
+    openPR: 24
+    closedIssue: 100
+    openIssue: 22
+    commit: 853
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 16
-    mergedPR: 982
-    openPR: 31
-    closedIssue: 254
-    openIssue: 30
-    commit: 1160
+    mergedPR: 985
+    openPR: 29
+    closedIssue: 255
+    openIssue: 29
+    commit: 1163
 total:
   release: 55
-  mergedPR: 3205
-  openPR: 74
-  closedIssue: 3228
-  openIssue: 99
-  commit: 11783
+  mergedPR: 3208
+  openPR: 71
+  closedIssue: 3230
+  openIssue: 97
+  commit: 11786
 ---
 path: /home/runner/.x-repo/github.com/scrapy/scrapy
-collectedAt: 2026-11-27T09:19:29Z
+collectedAt: 2026-11-28T08:11:28Z
 loc:
   Python:
-    code: 93684
+    code: 93766
     comments: 2915
-    blanks: 17248
+    blanks: 17256
     files: 557
   ReStructuredText:
     code: 26236
@@ -165,9 +165,9 @@ loc:
     blanks: 20
     files: 4
 total:
-  code: 122606
+  code: 122688
   comments: 3493
-  blanks: 30008
+  blanks: 30016
   files: 654
 ---
 date: "2026-11-09"
